@@ -32,7 +32,7 @@ github: [zkat]
       "Gender": "Male",
       "TaxonomyCode1": "183700000X",
       "Taxonomy1": "Psychologist",
-      "LicenseNumber1": "PS1074",
+      "LicenseNumber1": "",
       "LicenseNumberStateCode1": "ME",
       "PrimaryTaxonomySwitch1": "Y"
     }
